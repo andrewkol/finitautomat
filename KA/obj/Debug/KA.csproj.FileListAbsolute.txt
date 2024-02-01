@@ -1,0 +1,12 @@
+C:\Users\andre\source\repos\KA\KA\bin\Debug\KA.exe.config
+C:\Users\andre\source\repos\KA\KA\bin\Debug\KA.exe
+C:\Users\andre\source\repos\KA\KA\bin\Debug\KA.pdb
+C:\Users\andre\source\repos\KA\KA\obj\Debug\KA.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\KA\KA\obj\Debug\KA.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\KA\KA\obj\Debug\KA.Form1.resources
+C:\Users\andre\source\repos\KA\KA\obj\Debug\KA.Properties.Resources.resources
+C:\Users\andre\source\repos\KA\KA\obj\Debug\KA.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\KA\KA\obj\Debug\KA.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\KA\KA\obj\Debug\KA.exe
+C:\Users\andre\source\repos\KA\KA\obj\Debug\KA.pdb
+C:\Users\andre\source\repos\KA\KA\obj\Debug\KA.Form2.resources
