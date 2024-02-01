@@ -1,5 +1,5 @@
 # finitautomat
-Construction of a finite automaton by a regular grammar
+Construction of a finite automaton by a regular grammar / Построение конечного автомата по регулярной грамматике
 
 Construction of a finite automaton by a regular grammar.
 Task: 
